@@ -1,6 +1,8 @@
 - 👋 Hi, I’m Jonathan (@generalnova)
 - I have been programming since 2008 and it has been a passion of mine ever since.
 - 👀 I’m interested in all things programming!
+- I am proficient in C#, .NET Framework, WPF development.
+- I am familiar with Java, C++, PHP, HTML5, CSS3, JavaScript, Android development, iOS (Object-C) development.
 - 🌱 I’m currently learning .NET 5, .NET Standard development and refreshing my knowledge of web development.
 
 <!---
